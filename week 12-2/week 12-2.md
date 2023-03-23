@@ -15,7 +15,7 @@ I changed the search word, and a search for [digital afterlives] yielded 476 res
 
 ## Part of Possible References List
 
-### The Future of Digital Death
+#### The Future of Digital Death
 
 Who Wants to Live Forever? Living, Dying and Grieving in Our Digital Society
 
@@ -33,7 +33,7 @@ Technologies for supporting bereaved families
 
 http://www.dgp.toronto.edu/~mikem/pubs/Massimi-CSCW2010DC.pdf
 
-The creation of a digital afterlife
+#### The creation of a digital afterlife
 
 The transition from life to the digital afterlife: thanatechnology and its impact on grief
 
