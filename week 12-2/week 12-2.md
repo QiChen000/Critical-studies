@@ -15,7 +15,7 @@ I changed the search word, and a search for [digital afterlives] yielded 476 res
 
 ## Part of Possible References List
 
-The Future of Digital Death
+### The Future of Digital Death
 
 Who Wants to Live Forever? Living, Dying and Grieving in Our Digital Society
 
