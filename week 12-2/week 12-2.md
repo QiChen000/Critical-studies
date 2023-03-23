@@ -2,7 +2,7 @@
 In September 2019, my mother passed away. When I forgot to top up her phone six months later, I found out that telecommunications companies had been deregistered her number. Subsequently, I cannot retrieve the online account registered with the mobile number. I feel so sad that I lost my mother’s memory on the internet. I wish I could find a way to preserve my mother’s memories on the internet, making a lifeless digital vitalized and soothing me as emotional comfort.
 So my research topic is digital heritage.
 
-##Conduct my first search for relevant academic literature.
+## Conduct my first search for relevant academic literature.
 Ual library online search 
 
 The first search was in the bibliography of my university library, which yielded 84 results. After a cursory look at the catalog, the results were all related to cultural heritage, after which I looked up other English language references to heritage. Understanding that inheritance is the legal meaning of heritage, I changed the keyword to digital inheritance to be more accurate and got ten results. I needed more efficient literature. So I changed my search word to include the term 'digital afterlives' and only came up with one book, The digital afterlives of Jane Austen: Janeites at the keyboard / by Kylie Mirmohamadi.
