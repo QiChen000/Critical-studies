@@ -1,4 +1,4 @@
-## coding literacy and coding otherwise 
+## Coding literacy and Coding otherwise 
 
 #### before doing any text reading:
 
