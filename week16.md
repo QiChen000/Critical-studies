@@ -1,1 +1,10 @@
-temp
+## Transhuman & Posthuman Reflection
+
+Latvian-born British singer, songwriter, and performance artist Viktoria Modesta is known for her futuristic and visually stunning performances. Her work often combines body modification, technology, and futuristic aesthetics, addressing concepts related to posthumanism and transhumanism. However, referring to Viktoria Modesta as a posthuman artist is more accurate.
+
+Posthumanism challenges normative notions of what it means to be considered "human" and to reach a consensus. In her performance, she presents an empowering image derived from her particular incarnation, overturning any notion of victimhood or stigma prevalent in our culture's understanding of disability. The contrasting context for Modesta's subversive aesthetic is a totalitarian regime - a society that demands subordination and suppresses individualism. In the video, Modesta's character has become the face of resistance to oppression. Become a utopian icon in this desolate, dystopian world: she has a cartoon-like superhero alter ego with long black poster-style hair, a black corsage, and her signature weapon, the black spiked leg. The little girl and boy in the video have been influenced by posthumanist discourse.
+
+What posthumanism and transhumanism have in common is an interest in technology, but posthumanism does not see technology as central. Otherwise, posthumanism's theoretical attempts at essentialism and technological reductionism would be weakened. In Viktoria Modesta's musical compositions, we see that the material of her prosthesis is steel, crystal, and luminous diodes. The essence is to conceptualize her body in a new way, with no real regenerative technological transformation. But she sees people with disabilities from a different perspective, creating "The Alternative Limb Project," a redefinition of non-normativity and disability, which promotes a sense of empowerment and agency, and in Modesta's interpretation, even turns it into a weapon of social change, realizing the post-human ideal.
+
+
+
